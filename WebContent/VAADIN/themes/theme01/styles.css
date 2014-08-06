@@ -1,0 +1,35 @@
+@import url(../reindeer/styles.css);
+
+.v-label-largeTitleText {
+	color: #CC0066;
+ 	font-size: x-large;
+ 	font-weight: bold;   
+}
+
+.v-label-smallTitleText {
+ 	font-weight: bold;   
+}
+
+.v-label-blueBackText {
+	background: #0066FF;
+}
+
+.v-label-orangeBackText {
+	background: #FF9900;
+}
+
+.v-label-lightgreyBackText {
+	background: #C8C8C8;
+}
+
+.v-label-transparentBackText {
+	background: transparent;
+}
+
+.v-label-middleALignedText {
+ 	text-align: center;   
+}
+
+.componentBorder {
+	border-style: groove;
+}
